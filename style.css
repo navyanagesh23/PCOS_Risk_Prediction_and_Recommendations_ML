@@ -16,7 +16,11 @@
 
 /* Titles */
 h1, h2, h3 {
+<<<<<<< HEAD
     color: rgb(255, 0, 119); /* mild pink heading */
+=======
+    color: rgb(255, 0, 128); /* mild pink heading */
+>>>>>>> 0b6119b9c1ba2f5de670e1b7cf8cacd6b5cf19fd
     font-weight: 600;
     text-align: center;
     font-family: 'Trebuchet MS', sans-serif;
